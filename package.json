@@ -1,0 +1,23 @@
+{
+  "name": "image-zoom",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.74.8",
+    "@react-three/fiber": "^8.13.1",
+    "@types/three": "^0.152.1",
+    "@use-gesture/react": "^10.2.27",
+    "framer-motion": "^10.12.16",
+    "gsap": "^3.12.1",
+    "next": "13.4.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "^0.153.0"
+  }
+}
